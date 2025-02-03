@@ -1,0 +1,6 @@
+pylint
+aiohttp
+requests
+apache-airflow
+apache-airflow-providers-mysql
+apache-airflow-providers-postgres
