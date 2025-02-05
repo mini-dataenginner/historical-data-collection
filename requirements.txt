@@ -1,7 +1,6 @@
 apache-airflow
 apache-airflow-providers-mysql
 apache-airflow-providers-postgres
-
 pylint
 aiohttp
 requests

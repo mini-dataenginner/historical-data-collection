@@ -3,3 +3,4 @@ dags/__pycache__
 config
 logs
 plugins
+venv/
